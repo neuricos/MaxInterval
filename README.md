@@ -1,5 +1,5 @@
 # MaxInterval
 
-Author: Sophia Wang
+Author: Sophia Wang\
 Coder: Devon Chen
 
